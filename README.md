@@ -1,6 +1,6 @@
 ## Hello world!
 
-- 🌱 Focado no ReactJs e NextJs
+- 🌱 Focado no NodeJs
 - 📫 Contate-me no email: williamklywerston10@gmail.com
 
 <div align="center">
