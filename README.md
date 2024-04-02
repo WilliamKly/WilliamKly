@@ -1,7 +1,9 @@
 ## Hello world!
 
-- 🌱 Focado no NodeJs
+- 🌱 Focado no Python
 - 📫 Contate-me no email: williamklywerston10@gmail.com
+
+- Linkedin: https://www.linkedin.com/in/william-klywerston/
 
 <div align="center">
   <a href="https://github.com/WilliamKly">
@@ -11,6 +13,6 @@
 
 <div style="display: inline_block" align="center" ><br>
  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,django,docker,git,rabbitmq)](https://skillicons.dev)
 
 </div>
